@@ -23,6 +23,8 @@ class MyTest extends BaseTest
 
         console.log("TEST OK");
 	}
+
+        
 }
 
 // executem el test

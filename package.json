@@ -7,11 +7,11 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "assert": "^2.1.0",
     "child-process": "^1.0.2",
     "dotenv": "^16.4.7",
-    "selenium-webdriver": "^4.28.1"
-  }
+    "selenium-webdriver": "^4.29.0"
+  },
+  "description": ""
 }
